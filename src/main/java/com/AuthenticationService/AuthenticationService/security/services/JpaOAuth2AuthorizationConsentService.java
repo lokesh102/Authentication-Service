@@ -5,7 +5,6 @@ import java.util.Set;
 
 import com.AuthenticationService.AuthenticationService.security.models.AuthorizationConsent;
 import com.AuthenticationService.AuthenticationService.security.repositories.AuthorizationConsentRepository;
-
 import org.springframework.dao.DataRetrievalFailureException;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

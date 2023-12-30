@@ -1,5 +1,6 @@
 package com.AuthenticationService.AuthenticationService.security.models;
 
+
 import java.time.Instant;
 
 import jakarta.persistence.*;
